@@ -1,4 +1,4 @@
-### Olá!!! 👋
+**### Olá!!!** 👋
 
 Meu nome é Guilherme 
 
@@ -8,12 +8,14 @@ Minhas habilidades interpessoais, como comunicação eficaz, colaboração e res
 
 Estou motivado para agregar valor em um ambiente dinâmico e desafiador, onde a inovação e a excelência orientada a dados são prioridades.
 
-### Skills ⚡
+**### Hard Skills** 
 - SQL
 - Python
 - Power BI
 - Git e GitHub
 - Inglês Intermediário
+
+** Soft Skills**
 
 <!--
 **Gui-Policate/gui-policate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
