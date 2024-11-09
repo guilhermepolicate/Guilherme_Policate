@@ -10,6 +10,7 @@ Estou motivado para agregar valor em um ambiente dinâmico e desafiador, onde a 
 
 
 # Hard Skills 
+- IA
 - SQL
 - Python
 - Power BI
@@ -18,6 +19,13 @@ Estou motivado para agregar valor em um ambiente dinâmico e desafiador, onde a 
 
 
 # Soft Skills
+- Adaptabilidade
+- Comunicação Eficaz
+- Trabalho em Equipe
+- Pensamento Analítico
+- Aprendizado Contínuo
+- Resolução de Problemas
+
 
 <!--
 **Gui-Policate/gui-policate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
