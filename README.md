@@ -13,7 +13,7 @@ Estou motivado para agregar valor em um ambiente dinâmico e desafiador, onde a 
 - Python
 - SQL (MySQL)
 - Excel, Google Sheets
-- Power BI, Looker Studio
+- Power BI (DAX, Power Query)
 - Git e GitHub
 - Inglês
 
