@@ -10,12 +10,12 @@ Estou motivado para agregar valor em um ambiente dinâmico e desafiador, onde a 
 
 
 # Hard Skills 
-- IA
-- SQL
 - Python
-- Power BI
+- SQL (MySQL)- 
+- Excel, Google Sheets
+- Power BI, Looker Studio
 - Git e GitHub
-- Inglês Intermediário
+- Inglês
 
 
 # Soft Skills
