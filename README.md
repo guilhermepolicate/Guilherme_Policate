@@ -11,7 +11,7 @@ Estou motivado para agregar valor em um ambiente dinâmico e desafiador, onde a 
 
 # Hard Skills 
 - Python
-- SQL (MySQL)- 
+- SQL (MySQL)
 - Excel, Google Sheets
 - Power BI, Looker Studio
 - Git e GitHub
